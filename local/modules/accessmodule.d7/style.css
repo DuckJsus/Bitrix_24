@@ -1,0 +1,29 @@
+.accessmodule_delete {
+    background: url("icons/delete.gif") top left;
+    display: block;
+    float: left;
+    width: 13px;
+    height: 13px;
+    cursor: pointer;
+    margin-left: 3px;
+    margin-top: 3px;
+}
+
+.accessmodule_edit {
+    background: url("icons/edit.gif") top left;
+    display: block;
+    float: left;
+    width: 13px;
+    height: 13px;
+    cursor: pointer;
+    margin-left: 3px;
+    margin-top: 3px;
+}
+
+.accessmodule_field {
+    display: none;
+}
+
+.accessmodule_entity_type {
+    cursor: pointer;
+}
